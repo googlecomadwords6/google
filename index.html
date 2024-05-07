@@ -10,19 +10,16 @@
 
         <link rel="stylesheet" media="screen" href="https://cdn.jsdelivr.net/gh/googlecomadwords6/google@main/assets/stylesheets/main.min.css">
         <link rel="shortcut icon" type="image/png" href="/assets/images/favicon.png">
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <script src="https://apis.google.com/js/platform.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/googlecomadwords6/google@main/webjars/requirejs/2.1.15/require.min.js"></script>
-        <script>
-          requirejs.config({
-            baseUrl : 'assets/javascripts'
-          });
-          require(['all.min'], function() {
-            require(['common'], function() {
-                require(['index']);
-            });
-          });
-        </script>
+<script src="https://cdn.example.com/all.min.js"></script>
+<script>
+  requirejs.config({
+    baseUrl: 'assets/javascripts'
+  });
+  require(['index']);
+</script>
+
     </head>
     <body>
         
