@@ -1,9 +1,9 @@
 {
 "companyName": "Demenci",
 "productName": "Picker 3D",
-"dataUrl": "MBuild.data.unityweb",
-"wasmCodeUrl": "MBuild.wasm.code.unityweb",
-"wasmFrameworkUrl": "MBuild.wasm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/googlecomadwords6/google@main/Build/MBuild.data.unityweb",
+"wasmCodeUrl": "https://cdn.jsdelivr.net/gh/googlecomadwords6/google@main/Build/MBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/googlecomadwords6/google@main/Build/MBuild.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
