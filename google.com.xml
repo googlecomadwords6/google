@@ -16,7 +16,7 @@
 <script type="text/javascript">
       var options = {
         author: "Vseigru Unblocked",        
-        logo: "logo.jpg",
+        logo: "https://cdn.jsdelivr.net/gh/googlecomadwords6/google@main/logo.jpg",
         gameName: "unblocked premium *new*",
         gameNameEu: "Picker 3D",
         allowFullscreen: false,
